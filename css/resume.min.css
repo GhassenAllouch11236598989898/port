@@ -1,0 +1,88 @@
+/*!
+ * Start Bootstrap - Resume v4.0.0-beta.2 (https://startbootstrap.com/template-overviews/resume)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
+ */body{font-family:'Open Sans',serif;padding-top:100px;color:black;font-size:20px; }@media (min-width:992px){body{padding-top:0;padding-left:17rem}}h1,h2,h3,h4,h5,h6{font-family:'Saira Extra Condensed',serif;font-weight:700;text-transform:uppercase;color:#343a40}h1{font-size:6rem;line-height:5.5rem}h2{font-size:3.5rem}.subheading{text-transform:uppercase;font-weight:500;font-family:'Saira Extra Condensed',serif;font-size:1.35rem}.list-social-icons a{color:#495057}.list-social-icons a:hover{color:#d9a5b3}.list-social-icons a .fa-lg{font-size:1.75rem}.list-icons{font-size:3rem}.list-icons .list-inline-item i:hover{color:#d9a5b3}#sideNav .navbar-nav .nav-item .nav-link{font-weight:600;text-transform:uppercase}@media (min-width:992px){#sideNav{text-align:center;position:fixed;top:0;left:0;display:flex;flex-direction:column;width:17rem;height:100vh}#sideNav .navbar-brand{display:flex;margin:auto auto 0;padding:.5rem}#sideNav .navbar-brand .img-profile{max-width:15rem;max-height:15rem;border:.5rem solid rgba(255,255,255,.2)}#sideNav .navbar-collapse{display:flex;align-items:flex-start;flex-grow:0;width:200%;margin-bottom:auto}#sideNav .navbar-collapse .navbar-nav{flex-direction:column;width:100%}#sideNav .navbar-collapse .navbar-nav .nav-item{display:block}#sideNav .navbar-collapse .navbar-nav .nav-item .nav-link{display:block}}section.resume-section{border-bottom:1px solid #dee2e6;padding-top:5rem!important;padding-bottom:20rem!important}section.resume-section .resume-item .resume-date{min-width:none}@media (min-width:768px){section.resume-section{min-height:100vh}section.resume-section .resume-item .resume-date{min-width:18rem}}@media (min-width:992px){section.resume-section{padding-top:3rem!important;padding-bottom:3rem!important}}.bg-primary{background-color:#1868ae!important ;padding-right: 30px;}.text-primary{color:#d9a5b3!important}a{color:#d9a5b3}a:active,a:focus,a:hover{color:#d9a5b3}
+ @import url(https://fonts.googleapis.com/css?family=Roboto:300,400);
+ @import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css);
+
+ figure.snip1390 {
+     font-family: 'Roboto', Arial, sans-serif;
+     position: relative;
+     overflow: hidden;
+     margin: 10px;
+     min-width: 230px;
+     max-width: 315px;
+     width: 100%;
+     color: #000000;
+     text-align: center;
+     font-size: 16px;
+     background-color: #1868ae;
+     padding: 30px;
+     background-image: linear-gradient(-25deg, rgba(0, 0, 0, 0.2) 0%, rgba(255, 255, 255, 0.1) 100%);
+     -webkit-box-sizing: border-box;
+     box-sizing: border-box;
+ }
+
+ figure.snip1390 *,
+ figure.snip1390 *:before,
+ figure.snip1390 *:after {
+     -webkit-box-sizing: border-box;
+     box-sizing: border-box;
+     -webkit-transition: all 0.35s ease;
+     transition: all 0.35s ease;
+ }
+
+ figure.snip1390 figcaption {
+     width: 100%;
+ }
+
+ figure.snip1390 h2,
+ figure.snip1390 h4,
+ figure.snip1390 blockquote {
+     margin: 0;
+ }
+
+ figure.snip1390 h2,
+ figure.snip1390 h4 {
+     font-weight: 300;
+ }
+
+ figure.snip1390 h2 {
+     color: #ffffff;
+ }
+
+ figure.snip1390 h4 {
+     color: #a6a6a6;
+ }
+
+ figure.snip1390 blockquote {
+     font-size: 1em;
+     padding: 45px 20px 40px 50px;
+     margin-top: 30px;
+     background-color: #ffffff;
+     border-radius: 5px;
+     box-shadow: inset -1.4px -1.4px 2px rgba(0, 0, 0, 0.3);
+     text-align: left;
+     position: relative;
+ }
+
+ figure.snip1390 blockquote:before {
+     font-family: 'FontAwesome';
+     content: "\201C";
+     position: absolute;
+     font-size: 70px;
+     opacity: 0.25;
+     font-style: normal;
+     top: 0px;
+     left: 20px;
+ }
+
+ figure.snip1390 .profile {
+     width: 100px;
+     border-radius: 50%;
+     display: inline-block;
+     box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.4);
+     margin-bottom: 10px;
+     border: solid 5px #A6A57A;
+ }
